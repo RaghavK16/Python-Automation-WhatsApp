@@ -1,2 +1,2 @@
 # Python-Automation-WhatsApp
-Using Browser Automation for WhatsApp Messages.
+Using Selenium Browser Automation for sending WhatsApp Messages.
