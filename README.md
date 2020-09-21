@@ -1,2 +1,5 @@
 # Python-Automation-WhatsApp
-Using Selenium Browser Automation for sending WhatsApp Messages.
+
+* Using Python to send automated messages using WhatsApp Web.
+
+* Used "pywhatkit" package for sending the messages.
