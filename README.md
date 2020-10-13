@@ -1,6 +1,6 @@
 # Python-Automation-WhatsApp
 
-* Using Python scripts to send automated messages using WhatsApp Web.
+* Using simple Python scripts to send automated messages using WhatsApp Web.
 
 * Used "pywhatkit" package for sending the messages.
 
